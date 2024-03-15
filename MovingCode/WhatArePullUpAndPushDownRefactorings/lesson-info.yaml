@@ -1,0 +1,7 @@
+type: framework
+content:
+  - WhatArePullUpAndPushDownRefactorings
+  - ApplyPullUpRefactoringPractice
+  - ApplyPushDownRefactoringPractice
+is_template_based: false
+current_task: 2

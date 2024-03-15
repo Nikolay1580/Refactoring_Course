@@ -1,0 +1,6 @@
+type: framework
+content:
+  - FactoryMethodPattern
+  - Practice
+is_template_based: false
+current_task: 1
